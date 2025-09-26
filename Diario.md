@@ -1,4 +1,4 @@
-# 19-09-2025
+# DÍA 1 - 19-09-2025
 
 ## Introducción al módulo
 
@@ -33,3 +33,13 @@ Tendremos que seleccionar **dos productos** que se estén vendiendo como una mej
 Podemos seleccionarlos tanto para decir sobre ellos que nos parecen una buena solución o que no, y los argumentos correspondientes.  
 
 En esta sección también veremos el **plan de sostenibilidad**, que deben hacer empresas de cierto tamaño.
+
+
+#DÍA 2 - 26-09-2025
+
+Hemos trabajado sobre el concepto de sostenibilidad como una mezcla de no dejar que algo caiga/sujetarlo y una necesidad/problema. En este concepto la variable tiempo es muy significativa. 
+Es de interés común sostener la civilización, para que al menos podamos mantener los privilegios actuales que tenemos, para ello hay que mantener un equilibrio entre los aspectos sociales, ambientales y económicos. 
+Hay que diferenciar entre ecología y ecologismo, el primero es una ciencia y el segundo es política. 
+
+Mi reflexión personal al respecto es que ahondar en el origen de la palabra me parece importante para llegar a la raíz del problema e incluso aclaratorio. Además, comparto totalmente el pretexto de que la sostenibilidad es un interés
+común para mantener lo que ya tenemos.
