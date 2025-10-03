@@ -35,7 +35,7 @@ Podemos seleccionarlos tanto para decir sobre ellos que nos parecen una buena so
 En esta sección también veremos el **plan de sostenibilidad**, que deben hacer empresas de cierto tamaño.
 
 
-#DÍA 2 - 26-09-2025
+# DÍA 2 - 26-09-2025
 
 Hemos trabajado sobre el concepto de sostenibilidad como una mezcla de no dejar que algo caiga/sujetarlo y una necesidad/problema. En este concepto la variable tiempo es muy significativa. 
 Es de interés común sostener la civilización, para que al menos podamos mantener los privilegios actuales que tenemos, para ello hay que mantener un equilibrio entre los aspectos sociales, ambientales y económicos. 
@@ -43,3 +43,14 @@ Hay que diferenciar entre ecología y ecologismo, el primero es una ciencia y el
 
 Mi reflexión personal al respecto es que ahondar en el origen de la palabra me parece importante para llegar a la raíz del problema e incluso aclaratorio. Además, comparto totalmente el pretexto de que la sostenibilidad es un interés
 común para mantener lo que ya tenemos.
+
+
+# DÍA 3 - 03-10-2025
+
+Hoy hemos dedicado la clase a comparar a los humanos con los animales. Nos ha quedado claro que tenemos muchas similitudes (dependencia vital, limites biológicos, y parte del ecosistema, además estamos "construidos" con las mismas piezas).
+Sin embargo, también encontramos algunas diferencias, y es que poseemos un lenguaje completo (que nos permite, por ejemplo, enseñar sin necesidad de "imitar", sino, "explicando"), tecnología avanzada y la posibilidad de transmitir la cultura.
+Además encontramos algunos problemas, como el impacto sin precedentes que estamos generando, la modificación del entorno y la escala global. Si comparamos, los animales también modifican su entorno pero en su escala: una hormiga modifica el suelo, un castor los ríos, y los humanos el mundo.
+
+# Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
+La vida incluye muchos tipos de seres vivos, como sabemos, los grandes grupos: humanos, animales/insectos y plantas. Parece fácil pensar que con el deterioro de la Tierra y sus recursos, los humanos serán los primeros en extinguirse. Sin embargo, creo que será más complicado para otras formas de vida como los virus, las bacterias y otros microorganismos o incluso seres acuáticos cuyas condiciones de vida no son tan "sensibles" o "exigentes" como las nuestras. 
+
