@@ -1,6 +1,37 @@
-# SostenibilidadDeAlba
+# DÍA 4 - 10-10-2025
 
-Repositorio para la asignatura Sostenibilidad Aplicada al Sector Productivo. 
+En la clase de hoy hemos reflexionado alrededor del concepto de capacidad de carga, que es lo que un sistema puede soportar. Hemos estado trabajando alrededor de un ejemplo con el comportamiento del moho, que particularmente me ha servido de mucha utilidad.
+El moho no se "sale" del pan, se queda en el máximo de la capacidad de carga de su sistema, que es el pan. Cuando se acabe lo que al moho le gusta del pan, el moho estará menos cómodo y empieza a hacer cambios: deja de reproducirse, se van muriendo, etc.
+
+La definición como tal de sistema de carga es el límite máximo de individuos que puede soportar un sistema sin degradarse (en el caso del moho, que no haya pan). 
+Hemos visto un vídeo en el que unos microorganismos se multiplican exponencialmente, para reflexionar sobre que eso es así hasta que se acaban los recursos y empieza la "incomodidad". 
+Naturalmente se observa cómo los microorganismos hacen lo máximo posible para evitar la degradación (para sobrevivir en buenas condiciones el mayor tiempo posible), por lo que vemos como el moho no se pone a tirar migas de pan fuera, si no que intenta conservarlas.
+
+Esos momentos de incomodidad por la falta o escasez de recursos se representan como pequeñas curvas (pequeñas subidas y bajadas) en una curva de crecimiento. Suponen la incomodidad de la población porque se están llegando a los límites (guerras, disputas).
+
+Los recursos que hacen que esto suceda porque nos limitan son: agua, alimento y espacio. Ejemplos de límites superados son la deforestación extrema por ejemplo. Si queremos seguir teniendo lo que obtenemos de los árboles, deberíamos "cambiar" un árbol por otro.
+
+## Pregunta del día: ¿Hay un límite para la población humana?
+Definitivamente sí. Aunque no sepamos muy bien cuál es, está claro que está relacionado con los recursos y su agotamiento. Creo que deberíamos aprender más del moho y no desperdiciar migas de pan fuera de lo que necesitamos para cubrir nuestras necesidades básicas. 
+
+# DÍA 3 - 03-10-2025
+
+Hoy hemos dedicado la clase a comparar a los humanos con los animales. Nos ha quedado claro que tenemos muchas similitudes (dependencia vital, limites biológicos, y parte del ecosistema, además estamos "construidos" con las mismas piezas).
+Sin embargo, también encontramos algunas diferencias, y es que poseemos un lenguaje completo (que nos permite, por ejemplo, enseñar sin necesidad de "imitar", sino, "explicando"), tecnología avanzada y la posibilidad de transmitir la cultura.
+Además encontramos algunos problemas, como el impacto sin precedentes que estamos generando, la modificación del entorno y la escala global. Si comparamos, los animales también modifican su entorno pero en su escala: una hormiga modifica el suelo, un castor los ríos, y los humanos el mundo.
+
+## Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
+La vida incluye muchos tipos de seres vivos, como sabemos, los grandes grupos: humanos, animales/insectos y plantas. Parece fácil pensar que con el deterioro de la Tierra y sus recursos, los humanos serán los primeros en extinguirse. Sin embargo, creo que será más complicado para otras formas de vida como los virus, las bacterias y otros microorganismos o incluso seres acuáticos cuyas condiciones de vida no son tan "sensibles" o "exigentes" como las nuestras. 
+
+
+# DÍA 2 - 26-09-2025
+
+Hemos trabajado sobre el concepto de sostenibilidad como una mezcla de no dejar que algo caiga/sujetarlo y una necesidad/problema. En este concepto la variable tiempo es muy significativa. 
+Es de interés común sostener la civilización, para que al menos podamos mantener los privilegios actuales que tenemos, para ello hay que mantener un equilibrio entre los aspectos sociales, ambientales y económicos. 
+Hay que diferenciar entre ecología y ecologismo, el primero es una ciencia y el segundo es política. 
+
+Mi reflexión personal al respecto es que ahondar en el origen de la palabra me parece importante para llegar a la raíz del problema e incluso aclaratorio. Además, comparto totalmente el pretexto de que la sostenibilidad es un interés
+común para mantener lo que ya tenemos.
 
 # DÍA 1 - 19-09-2025
 
@@ -38,25 +69,6 @@ Podemos seleccionarlos tanto para decir sobre ellos que nos parecen una buena so
 
 En esta sección también veremos el **plan de sostenibilidad**, que deben hacer empresas de cierto tamaño.
 
+# SostenibilidadDeAlba
 
-# DÍA 2 - 26-09-2025
-
-Hemos trabajado sobre el concepto de sostenibilidad como una mezcla de no dejar que algo caiga/sujetarlo y una necesidad/problema. En este concepto la variable tiempo es muy significativa. 
-Es de interés común sostener la civilización, para que al menos podamos mantener los privilegios actuales que tenemos, para ello hay que mantener un equilibrio entre los aspectos sociales, ambientales y económicos. 
-Hay que diferenciar entre ecología y ecologismo, el primero es una ciencia y el segundo es política. 
-
-Mi reflexión personal al respecto es que ahondar en el origen de la palabra me parece importante para llegar a la raíz del problema e incluso aclaratorio. Además, comparto totalmente el pretexto de que la sostenibilidad es un interés
-común para mantener lo que ya tenemos.
-
-
-# DÍA 3 - 03-10-2025
-
-Hoy hemos dedicado la clase a comparar a los humanos con los animales. Nos ha quedado claro que tenemos muchas similitudes (dependencia vital, limites biológicos, y parte del ecosistema, además estamos "construidos" con las mismas piezas).
-Sin embargo, también encontramos algunas diferencias, y es que poseemos un lenguaje completo (que nos permite, por ejemplo, enseñar sin necesidad de "imitar", sino, "explicando"), tecnología avanzada y la posibilidad de transmitir la cultura.
-Además encontramos algunos problemas, como el impacto sin precedentes que estamos generando, la modificación del entorno y la escala global. Si comparamos, los animales también modifican su entorno pero en su escala: una hormiga modifica el suelo, un castor los ríos, y los humanos el mundo.
-
-## Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
-La vida incluye muchos tipos de seres vivos, como sabemos, los grandes grupos: humanos, animales/insectos y plantas. Parece fácil pensar que con el deterioro de la Tierra y sus recursos, los humanos serán los primeros en extinguirse. Sin embargo, creo que será más complicado para otras formas de vida como los virus, las bacterias y otros microorganismos o incluso seres acuáticos cuyas condiciones de vida no son tan "sensibles" o "exigentes" como las nuestras. 
-
-
-
+Repositorio para la asignatura Sostenibilidad Aplicada al Sector Productivo. 
