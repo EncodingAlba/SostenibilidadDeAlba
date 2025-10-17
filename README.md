@@ -1,3 +1,14 @@
+# DÍA 5 - 17-10-2025
+
+Comenzamos la clase con la pregunta: ¿Vivimos solos? La respuesta es que no, vivimos en comunidad con otros humanos y otras especies, y por tanto, lo que hacen los demás nos influye, en muchas ocasiones nos obliga a modificar nuestro comportamiento, como cuando te cruzas con alguien por una acera estrecha o como cuando estás debajo de un árbol donde hay palomas soltando excrementos. 
+Las relaciones entre especies se llevan estudiando años, y se pueden clasificar en intraespecíficas (entre la misma especie) o interespecíficas (entre distintas especies). En las interespecíficas podemos distinguir varios tipos dependiendo de si es beneficiosa, indiferente o negativa para una o ambas partes de la relación.
+Estas relaciones son muy importantes porque pueden hacernos la vida más fácil o más difícil, por ejemplo, la flora bacteriana de nuestro estómago nos ayuda a hacer la digestión, pero si tenemos piojos estamos muy incómodos y pueden transmitirnos enfermedades. 
+Los humanos también tenemos estas relaciones entre nosotros, por ejemplo, el grupo de vecinos de Sarrión (Teruel) que descrubrieron lo que pasaba con las trufas y decidieron crear una cooperativa y una DOP para explotar ese "tesoro". Sin embargo, como analizamos en la pregunta del día, no siempre encontramos cooperación con los demás.
+
+## Pregunta del día: ¿Qué hacemos nosotros: cooperamos o competimos?
+En general la población no coopera. Solo se copera con el que tienes al lado (familia, amigos, vecinos) pero el resto de la población nos suele resultar "indiferente" y tendemos a competir con ellos. A nivel global hay una gran competición por ver quién gana más dinero, según dicen, "lo que mueve el mundo".
+En el ejemplo en el que Pablo va a buscar las trufas de un señor que cultiva encinas para conseguirlas, Pablo coopera con su amigo para conseguir la escopeta con la que enfrentarse a él, pero el trufero y él compiten por el mismo objetivo: conseguir la trufa y sacar dinero.
+
 # DÍA 4 - 10-10-2025
 
 En la clase de hoy hemos reflexionado alrededor del concepto de capacidad de carga, que es lo que un sistema puede soportar. Hemos estado trabajando alrededor de un ejemplo con el comportamiento del moho, que particularmente me ha servido de mucha utilidad.
@@ -23,6 +34,7 @@ Además encontramos algunos problemas, como el impacto sin precedentes que estam
 ## Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
 La vida incluye muchos tipos de seres vivos, como sabemos, los grandes grupos: humanos, animales/insectos y plantas. Parece fácil pensar que con el deterioro de la Tierra y sus recursos, los humanos serán los primeros en extinguirse. Sin embargo, creo que será más complicado para otras formas de vida como los virus, las bacterias y otros microorganismos o incluso seres acuáticos cuyas condiciones de vida no son tan "sensibles" o "exigentes" como las nuestras. 
 
+# OCTUBRE
 
 # DÍA 2 - 26-09-2025
 
