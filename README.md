@@ -1,15 +1,29 @@
-# DÍA 5 - 17-10-2025
+## DÍA 6 - 24-10-2025
+
+Comenzamos la clase viendo las dos estrategias de reproducción y adaptarnos al medio: las estrategias R y K. A pesar de la gran diversidad entre los seres vivos, todos podemos clasificarnos en esas dos estrategias. 
+Las especies oportunistas (r) crecen muy rápido pero van fluctuando. Invierten menos tiempo en cuidar a los hijos y al reproducirse crean un número muy grande de individuos (miles). La estrategia es "a algunos les irá bien y a otros no".
+Las especies en equilibrio (k) crecen no tan rápido y llegan al punto máximo y alcanzan un cierto equilibrio. Respecto a las crías, dedican mucho más tiempo a cuidar a los hijos y tienen muchas menos crías, entre 1 y 10 dependiendo de la especie. 
+
+Hemos visto el ejemplo de los insectos y los elefantes, los primeros representando la especie r y los segundos la especie k. Son los genes que hay en cada uno lo que les lleva a reproducirse de esta manera, con el objetivo de permanecer. Todos los seres vivos morimos, lo cual es positivo ya que al reproducirnos sucede la evolución, lo que nos permite adaptarnos al medio. 
+
+### Pregunta del día: ¿Qué estrategia usamos los humanos?
+
+La k, ya que invertimos mucho tiempo en el cuidado parental y tenemos un número bajo de hijos. Podemos encontrar algunas diferencias entre países pero a nivel general y en comparación con otras especies, seguimos la estrategia k. 
+
+Teniendo esto en cuenta, sabemos que los individuos que siguen la estrategia k, como nosotros, somos más sensibles a los cambios y nos cuesta mucho más gestionarlos y adaptarnos a ellos, por lo tanto, nos interesa la estabilidad, que el ambiente cambie lo menos posible, y por eso es importante el concepto de sostenibilidad.
+
+## DÍA 5 - 17-10-2025
 
 Comenzamos la clase con la pregunta: ¿Vivimos solos? La respuesta es que no, vivimos en comunidad con otros humanos y otras especies, y por tanto, lo que hacen los demás nos influye, en muchas ocasiones nos obliga a modificar nuestro comportamiento, como cuando te cruzas con alguien por una acera estrecha o como cuando estás debajo de un árbol donde hay palomas soltando excrementos. 
 Las relaciones entre especies se llevan estudiando años, y se pueden clasificar en intraespecíficas (entre la misma especie) o interespecíficas (entre distintas especies). En las interespecíficas podemos distinguir varios tipos dependiendo de si es beneficiosa, indiferente o negativa para una o ambas partes de la relación.
 Estas relaciones son muy importantes porque pueden hacernos la vida más fácil o más difícil, por ejemplo, la flora bacteriana de nuestro estómago nos ayuda a hacer la digestión, pero si tenemos piojos estamos muy incómodos y pueden transmitirnos enfermedades. 
 Los humanos también tenemos estas relaciones entre nosotros, por ejemplo, el grupo de vecinos de Sarrión (Teruel) que descrubrieron lo que pasaba con las trufas y decidieron crear una cooperativa y una DOP para explotar ese "tesoro". Sin embargo, como analizamos en la pregunta del día, no siempre encontramos cooperación con los demás.
 
-## Pregunta del día: ¿Qué hacemos nosotros: cooperamos o competimos?
+### Pregunta del día: ¿Qué hacemos nosotros: cooperamos o competimos?
 En general la población no coopera. Solo se copera con el que tienes al lado (familia, amigos, vecinos) pero el resto de la población nos suele resultar "indiferente" y tendemos a competir con ellos. A nivel global hay una gran competición por ver quién gana más dinero, según dicen, "lo que mueve el mundo".
 En el ejemplo en el que Pablo va a buscar las trufas de un señor que cultiva encinas para conseguirlas, Pablo coopera con su amigo para conseguir la escopeta con la que enfrentarse a él, pero el trufero y él compiten por el mismo objetivo: conseguir la trufa y sacar dinero.
 
-# DÍA 4 - 10-10-2025
+## DÍA 4 - 10-10-2025
 
 En la clase de hoy hemos reflexionado alrededor del concepto de capacidad de carga, que es lo que un sistema puede soportar. Hemos estado trabajando alrededor de un ejemplo con el comportamiento del moho, que particularmente me ha servido de mucha utilidad.
 El moho no se "sale" del pan, se queda en el máximo de la capacidad de carga de su sistema, que es el pan. Cuando se acabe lo que al moho le gusta del pan, el moho estará menos cómodo y empieza a hacer cambios: deja de reproducirse, se van muriendo, etc.
@@ -22,21 +36,21 @@ Esos momentos de incomodidad por la falta o escasez de recursos se representan c
 
 Los recursos que hacen que esto suceda porque nos limitan son: agua, alimento y espacio. Ejemplos de límites superados son la deforestación extrema por ejemplo. Si queremos seguir teniendo lo que obtenemos de los árboles, deberíamos "cambiar" un árbol por otro.
 
-## Pregunta del día: ¿Hay un límite para la población humana?
+### Pregunta del día: ¿Hay un límite para la población humana?
 Definitivamente sí. Aunque no sepamos muy bien cuál es, está claro que está relacionado con los recursos y su agotamiento. Creo que deberíamos aprender más del moho y no desperdiciar migas de pan fuera de lo que necesitamos para cubrir nuestras necesidades básicas. 
 
-# DÍA 3 - 03-10-2025
+## DÍA 3 - 03-10-2025
 
 Hoy hemos dedicado la clase a comparar a los humanos con los animales. Nos ha quedado claro que tenemos muchas similitudes (dependencia vital, limites biológicos, y parte del ecosistema, además estamos "construidos" con las mismas piezas).
 Sin embargo, también encontramos algunas diferencias, y es que poseemos un lenguaje completo (que nos permite, por ejemplo, enseñar sin necesidad de "imitar", sino, "explicando"), tecnología avanzada y la posibilidad de transmitir la cultura.
 Además encontramos algunos problemas, como el impacto sin precedentes que estamos generando, la modificación del entorno y la escala global. Si comparamos, los animales también modifican su entorno pero en su escala: una hormiga modifica el suelo, un castor los ríos, y los humanos el mundo.
 
-## Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
+### Pregunta del día - ¿Acabaremos con la vida en nuestro planeta?
 La vida incluye muchos tipos de seres vivos, como sabemos, los grandes grupos: humanos, animales/insectos y plantas. Parece fácil pensar que con el deterioro de la Tierra y sus recursos, los humanos serán los primeros en extinguirse. Sin embargo, creo que será más complicado para otras formas de vida como los virus, las bacterias y otros microorganismos o incluso seres acuáticos cuyas condiciones de vida no son tan "sensibles" o "exigentes" como las nuestras. 
 
 # OCTUBRE
 
-# DÍA 2 - 26-09-2025
+## DÍA 2 - 26-09-2025
 
 Hemos trabajado sobre el concepto de sostenibilidad como una mezcla de no dejar que algo caiga/sujetarlo y una necesidad/problema. En este concepto la variable tiempo es muy significativa. 
 Es de interés común sostener la civilización, para que al menos podamos mantener los privilegios actuales que tenemos, para ello hay que mantener un equilibrio entre los aspectos sociales, ambientales y económicos. 
@@ -45,32 +59,32 @@ Hay que diferenciar entre ecología y ecologismo, el primero es una ciencia y el
 Mi reflexión personal al respecto es que ahondar en el origen de la palabra me parece importante para llegar a la raíz del problema e incluso aclaratorio. Además, comparto totalmente el pretexto de que la sostenibilidad es un interés
 común para mantener lo que ya tenemos.
 
-# DÍA 1 - 19-09-2025
+## DÍA 1 - 19-09-2025
 
-## Introducción al módulo
+### Introducción al módulo
 
 En esta clase el profesor nos ha explicado la asignatura. Cuáles son los RA de aprendizaje que tenemos que superar, de qué manera vamos a trabajar y qué se nos va a evaluar.
 
-### Parte 1
+#### Parte 1
 En primer lugar, cada una de las 18 sesiones comenzará con una explicación por parte del profesor de **5-10 minutos**. Tras esa explicación haremos un pequeño debate profesor-alumnos en el que podremos exponer nuestros puntos de vista, explicar qué pensamos sobre las políticas implementadas y reflexionar sobre nuestras propias ideas y las expuestas por los compañeros.
 
 Después, haremos un **diario** en el que incluiremos un breve resumen sobre la explicación y también podremos comentar algo sobre nuestra opinión o sobre el debate. 
 
-### Parte 2
+#### Parte 2
 El resto de la clase, unos **40-45 minutos**, trabajaremos en grupo. Los grupos están formados según las 5 filas que hay en la clase y se mantendrán todo el curso. El objetivo de este trabajo en equipo será producir como resultado una página web, compuesta por las siguientes 3 secciones:
 
-#### Sección 1
+##### Sección 1
 Para esta sección tendremos que elegir una civilización o sistema, de la cual tendremos que describir su funcionamiento con relación a la sostenibilidad.  
 Mencionaremos 3 puntos:  
 1. Obtención de recursos  
 2. Obtención de la energía  
 3. Posibilidades de supervivencia  
 
-#### Sección 2
+##### Sección 2
 En esta sección trabajaremos con respecto a los **ODS**. Debemos describir, analizar, pensar y reflexionar sobre esas políticas. De ese análisis veremos que cuando la cosa se complica, tenemos que tomar medidas.  
 Veremos si nuestra civilización o sistema elegidos tomaron o no medidas, qué pasó, qué problemas llevaron a la insostenibilidad, etc.
 
-#### Sección 3
+##### Sección 3
 Se aplican las otras secciones al **sector productivo (Informática en nuestro caso)**. Se trata de ver qué podemos hacer desde nuestro sector para resolver los problemas.  
 
 Tendremos que seleccionar **dos productos** que se estén vendiendo como una mejora, un producto verde, o que se esté vendiendo como sostenible:  
