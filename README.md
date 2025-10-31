@@ -1,3 +1,19 @@
+## DÍA 7 - 31-10-2025
+
+Para empezar hacemos un breve repaso de lo que hemos visto hasta ahora en la asginatura, que ha sido la comparativa de los humanos con los animales, en cuanto a reproducción, persistencia en el medio y comportamientos. 
+
+Ahora vamos a ampliar un poco la perspectiva de los temas, pasando a la visión más política, enfocándonos en los problemas, etc. 
+
+Comenzamos con la pregunta de si el universo es finito, realmente no se sabe. Lo que sí podemos saber es que la Tierra, sí es finita, tiene recursos que se acabarán. Con estos recursos limitados y el consumo exponencial, ¿cómo mantenemos el equilibrio? Volviendo a lecciones anteriores, si comparamos el moho y la rebanada de pan con los humanos y la Tierra, podemos ver que todavía no se nos ha acabado la tostada pero sabemos que se va a acabar. 
+
+En nuestro tipo de crecimiento (k) se observar ciertas curvas, estas curvas llevadas a la realidad las podemos comparar con eventos que vemos en las noticias: las guerras, el covid, el hambre y la pobreza.
+
+Al ritmo de consumo de recursos actual, necesitariámos 1'7 planetas para que esto fuera sostenible. En caso de que todos los seres de la tierra viviesen como se vive en los países desarrollados, necesitaríamos 5 planetas Tierra a nivel de recursos. 
+
+También hemos comentado el ciclo cerrado de la biosfera, cómo el carbono se va transformando y vuelve a nosotros de otra forma - por ejemplo: nosotros generamos CO2, que es absorbido por las plantas, y luego hay animales y personas que comen plantas. 
+
+Por último hemos estado investigando sobre el origen del agua, particularmente en un pueblo como Jumilla que no tiene ríos ni pantanos cerca. En nuestro caso el agua viene de los acuíferos, y podemos encontrar múltiples pozos que sirven para su extracción. En lugar de primar la conservación de los acuíferos, lo que se ha hecho ha sido explotarlos, aumentando el precio del agua conforme bajaba el nivel del acuífero. Esto tiene muchas consecuencias debido a las tres dimensiones inseparables de la sostenibilidad: la ambiental, la social y la económica. Si un agricultor paga 10 veces más por el agua de lo que pagaba en un principio, el melocotón costará 10 veces más para que su negocio sea sostenible, con las consecuencias sociales que eso acarrea - ¿quién puede permítirselo? ¿elegiremos comprar más barato aquellos productos que provengan de zonas con mejor acceso al agua? Si dejamos de comprar melocotones locales, ¿se hundirá la agricultura local?
+
 ## DÍA 6 - 24-10-2025
 
 Comenzamos la clase viendo las dos estrategias de reproducción y adaptarnos al medio: las estrategias R y K. A pesar de la gran diversidad entre los seres vivos, todos podemos clasificarnos en esas dos estrategias. 
