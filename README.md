@@ -1,3 +1,7 @@
+## DÍA 8 - 07-11-2025
+
+No ha venido el profesor por lo que no hemos podido avanzar con las pequeñas explicaciones. He aprovechado el tiempo para trabajar en la web grupal.
+
 ## DÍA 7 - 31-10-2025
 
 Para empezar hacemos un breve repaso de lo que hemos visto hasta ahora en la asginatura, que ha sido la comparativa de los humanos con los animales, en cuanto a reproducción, persistencia en el medio y comportamientos. 
