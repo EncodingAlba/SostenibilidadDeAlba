@@ -1,3 +1,32 @@
+## DÍA 9 - 14-11-2025
+
+### Resumen de la clase
+
+En la clase de hoy hemos estado hablando sobre el análisis del ciclo de vida de un producto. De forma resumida es el análisis que se realiza para ver la cantidad y origen de los recursos que se utilizan para fabricar un producto, así como su posterior distribución, uso y gestión final. Hemos visto este análisis como una forma de representación, igual que lo es la nota para representar el trabajo que hacemos los estudiantes. 
+
+Mediante el ejemplo del teléfono móvil, explicado debajo, hemos hablado del concepto de "coste oculto", que surge del gasto material y energético en los procesos de fabricación. Por ejemplo, primero se extrae el petróleo, después se transporta a fábricas donde puedan convertirlo en pellets de plástico, luego se lleva a fábricas de carcasas para teléfonos, y por último a fábricas de teléfonos para el ensamblaje final. Así que simplemente para la fabricación de la carcasa de un teléfono, se han pasado por múltiples procesos, suponiendo un coste energético y material relevante. 
+
+También hemos valorado las fuentes de energía, como principales el sol y la nuclear, y como otras fuentes la luna (con las mareas), la hidroeléctrica y la geotérmica. 
+
+Por último hemos visto los conceptos de economía lineal y circular. La primera, la que hemos estado siguiendo durante mucho tiempo, y la segunda, representa el futuro deseable y necesario.
+
+### Ejemplos
+
+El ejemplo alrededor del cual ha girado toda la clase ha sido el de un teléfono móvil. Es una herramienta que pesa unos 150g de media, pero para su fabricación se utilizan unos 80kg de recursos, entre Silicio, Cobre, Litio y Petroleo (como materias primas) y la energía necesaria para su transformación. 
+
+Además hemos contemplado otros ejemplos de evaluar lo que cuesta conseguir algo vs su rendimiento con el caso de la minería espacial como forma de obtención de recursos. Para ello se necesita un cohete, que pesa miles de toneladas y quizás solo podríamos traer como máximo una tonelada de material. Dicho así vemos que compensa poco.
+
+### Pregunta del día: Cuando se fabrica una camiseta de algodón, ¿cuál es el consumo (coste oculto) que hay detrás en el proceso de gestión final?
+
+Hemos tomado de referencia una camiseta de algodón de 200g. Para todo su ciclo de vida se estima un coste oculto de aproximadamente 2000kg, principalmente debido al agua utilizada en el cultivo del algodón. La fase de gestión final representa solo unos 0,3 kg, considerando transporte, vertedero, incineración, reciclaje, impacto material ambiental y costes de oportunidad de recursos. Aunque esta fase representa una fracción pequeña del total, su impacto ambiental puede ser relevante si las camisetas se acumulan en vertederos o liberan microfibras. 
+
+### Reflexión personal
+
+Tras el debate de hoy de clase, me queda claro que la única solución para no quedarnos sin recursos es recurrir a la economía circular, ya que la economía lineal la veo como una pila (la tierra) de recursos de la que únicamente se extraen, pero no se "recargan". Recargarla o dejar de vaciarla es imprescindible para mantenernos vivos y "cómodos" durante más tiempo.
+
+![alt text](CICLO-DE-VIDA-PRODUCTO.jpg)
+
+
 ## DÍA 8 - 07-11-2025
 
 No ha venido el profesor por lo que no hemos podido avanzar con las pequeñas explicaciones. He aprovechado el tiempo para trabajar en la web grupal.
