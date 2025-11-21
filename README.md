@@ -1,3 +1,7 @@
+## DÍA 10 - 21-11-2025
+
+El profesor no ha venido a clase.
+
 ## DÍA 9 - 14-11-2025
 
 ### Resumen de la clase
