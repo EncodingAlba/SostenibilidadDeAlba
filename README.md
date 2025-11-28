@@ -1,3 +1,30 @@
+## DÍA 11 - 28-11-2025
+
+### Resumen de la clase
+
+En la clase de hoy hemos estado hablando sobre la economía circular, centrándonos en cómo aplicar este concepto a la producción y consumo de bienes. La idea central es que todo lo que usamos debería intentar mantenerse en uso el mayor tiempo posible: reparando, reutilizando y reciclando antes de pensar en fabricar algo nuevo.
+
+Hemos visto que muchas veces no valoramos lo que tiramos porque no siempre es evidente su valor. Por ejemplo, hay cosas cuya reutilización es obvia, como la chatarra, pero otras, como los gases, son más complicadas de valorar porque sus efectos no siempre nos afectan directamente a nosotros, sino a otros o al medio ambiente.
+
+También hemos comentado la importancia de producir de manera más circular: usar materiales que sean fáciles de reutilizar para reducir el desperdicio y "circularizar" el ciclo de vida de un producto. A parte de esto es importante que sepamos que para todo esto, siempre vamos a necesitar energía para transformar materiales.
+
+En conclusión, queda claro que las decisiónes más circulares siempre implican priorizar la reparación y la reuitilización sobre la fabricación nueva. 
+
+### Ejemplos
+
+Para debatir sobre la idea de la economía circular hemos usado dos ejemplos en los que vemos que la gestión de residuos es claramente beneficiosa y otro en el que no tanto.
+La gestión de residuos es beneficiosa en el caso de la chatarra, ya que quién la recoge y procesa gana dinero de ella. Sin embargo, nadie recoge las cáscaras de plátano, ya que no es tan fácil obtener un dinero a cambio de ello.
+
+### Pregunta del día: ¿Y a mi qué? ¿Enfoque colectivo o individual?
+
+Podemos pensar que hay una parte individual, particularmente la de las decisiones que tomamos, comprar un coche u otro. Sin embargo, la mayor responsabilidad recae a nivel empresarial y gubernamental, mediante políticas y normativas que obliguen a enfocar los procesos hacia esta circularidad. 
+
+### Reflexión personal
+
+La clase de hoy me ha gustado, y particularmente la respuesta a la pregunta, ya que tiendo a sentir cierta responsabilidad o culpabilidad por no optar por las opciones más sostenibles o reutilizables. Sin embargo, en un contexto en el que el tiempo y el dinero nos limita constantemente, comprendo que mis elecciones no puedan basarse unicamente en la mejor opción a nivel de sostenibilidad, sino en aquella que me resulte más cómoda o más asequible. Y sobretodo, que la mayor responsabilidad no es mía, si no la de aquellos que deciden qué opciones ofrecernos a los consumidores.
+
+![alt text](image.png)
+
 ## DÍA 10 - 21-11-2025
 
 El profesor no ha venido a clase.
