@@ -1,3 +1,37 @@
+## DÍA 12 - 05-12-2025
+
+### Resumen de la clase
+
+Hoy hemos visto el tema de la huella ecológica y la huella de carbono. Es importante saber cómo funciona la Tierra si queremos usarla bien, igual que cuando te enseñan a ir en bici: si no sabes, te caes.  
+Comentó también que a veces nos pasa por exceso de confianza, pensamos “una vez más no pasa nada” y al final sí pasa.  
+
+Hemos comentado que hay expertos que crean sistemas de referencia para medir si lo estamos haciendo bien o mal, y que nosotros solo tenemos que entenderlos y ver nuestra “nota” (sistema de referencia comentado en clases anteriores). 
+Todos usamos recursos de la Tierra y tiramos desechos, pero el problema es que gastamos más de lo que el planeta puede regenerar.  
+
+La huella ecológica se mide en hectáreas globales por persona. Si una persona gasta en tres meses lo que la Tierra produce en un año, está generando un déficit.  
+También hemos comentado los principales productores de CO₂, como las fábricas, la electricidad, los coches y hasta los seres vivos. Desde los años 50, con el boom industrial, hemos ido aumentando tanto que ahora necesitamos *1,7 planetas* para mantener el ritmo.  
+
+Me ha llamado mucho la atención que Internet sería el sexto país más contaminante del mundo, y que como programadores también tenemos responsabilidad: si hacemos código más eficiente, el hardware dura más y contaminamos menos.  
+
+### Ejemplos
+
+- Si una persona gasta en 3 meses lo que el planeta produce en un año → déficit ecológico.  
+- Los animales como los elefantes generan desechos orgánicos y sostenibles, pero los humanos producimos demasiado y somos demasiados.  
+- La bici que va a 30 km/h y nosotros la llevamos a 32 → un pequeño cambio que puede tener un gran impacto.  
+
+### Pregunta del día: ¿Cuál es tu huella de carbono?
+
+Hemos hecho el test en [footprintcalculator.org](https://www.footprintcalculator.org) para calcular nuestra huella y ver cuántos planetas necesitaríamos si todos viviéramos igual que nosotros.  
+
+### Reflexión personal
+
+El test me hizo darme cuenta de cuánto impacto tengo sin darme cuenta. Al ver cuántos planetas necesitaríamos si todos viviéramos como yo, me sorprendí mucho.
+Creo que medirlo es importante para saber por dónde empezar a mejorar. Igual que con la bici del ejemplo: si entiendes cómo funciona, no te caes.  
+
+También surge la reflexión de que si yo, que considero que en algunos aspectos soy más eficiente que la media (viajo poco, no utilizo calefacción) aún así tengo un consumo de 3.5 tierras al año, imagino que esto se "compensa" para llegar al 1.7 al año global, con personas de países menos desarrollados. Esto presenta un problema global muy complicado de abordar.
+
+![alt text](image-2.png)
+
 ## DÍA 11 - 28-11-2025
 
 ### Resumen de la clase
