@@ -1,3 +1,7 @@
+## DÍA 13 - 12-12-2025
+
+Hoy no he podido asistir a clase.
+
 ## DÍA 12 - 05-12-2025
 
 ### Resumen de la clase
