@@ -1,3 +1,37 @@
+## DÍA 14 - 19-12-2025
+
+### Resumen de la clase
+
+En la clase de hoy hemos hablado sobre la contaminación y la gestión de residuos, comenzando por la reflexión de qué es realmente un residuo. Un residuo es algo que sobra, que ya no queremos y que tiramos a la basura, pero entonces, ¿qué pasa después con todo eso?
+
+Hemos hablado de una de las principales fuentes de residuos, que son los residuos orgánicos. Como una solucion muy eficiente, hemos comentado el compostaje a nivel industrial, el cual tiene varias ventajas, como reutilizar residuos como fertilizante, reducir la cantidad de basura y generar energía. Sin embargo, no todos los residuos son tan fáciles de gestionar. Un ejemplo muy impactante ha sido el de las montañas de basura electrónica en Ghana, donde acaban muchos de los dispositivos que desechamos en los países desarrollados. Hubo un tiempo en que los residuos se mandaban completos, incluyendo metales valiosos que iban dentro, pero hoy en día, se mandan ya "limpios" de estos metales, dejando sólo el plástico residual. 
+
+También hemos comentado problemas de contaminación muy visibles como las bolas de grasa y toallitas (o fatbergs) que se forman en las alcantarillas, o imágenes llamativas como ríos que arden o aparecen cubiertos de espuma. Otro punto importante ha sido el de los disruptores endocrinos, presentes en muchos plásticos, y el proceso de bioacumulación, donde al final nosotros acabamos siendo el filtro final de todas esas sustancias. Aunque conocía el tema de los disruptores endocrinos me ha parecido muy interesante el hecho de que algunos plásticos tengan la forma de las hormonas y por ello "hackean" nuestro sistema, punto que desconocía. 
+
+Por último, hemos reflexionado sobre la ropa que ya no utilizamos y sobre el enorme valor de los residuos electrónicos, destacando que hay más oro en mil móviles usados que en una tonelada de mineral de oro, lo que hace cuestionarnos por qué seguimos extrayendo nuevos recursos en lugar de reutilizar los que ya están refinados en los vertederos.
+
+### Ejemplos
+
+- Montañas de residuos electrónicos acumulados en países como Ghana.  
+- Bolas de grasa y toallitas bloqueando las alcantarillas.  
+- Ríos que arden o aparecen cubiertos de espuma debido a la contaminación.  
+- Sustancias químicas de los plásticos que alteran las hormonas y se acumulan en la cadena alimentaria.  
+- Fast fashion y la cantidad de residuos que genera (muchas veces plástico en forma de poliéster) 
+
+### Pregunta del día: ¿Por qué cambiaste tu último móvil?
+
+En mi caso, cambié mi último móvil porque dejó de funcionar correctamente y se quedó sin espacio, ya que cada vez las aplicaciones ocupan más GB. Otro problema importante fue la duración de la batería, que era muy reducida, teniendo que cargar el dispositivo hasta 3 veces al día. Pensando en sostenibilidad, podría haber cambiado la batería, pero también tenía la pantalla rota y el coste de dejarlo en buen estado era muy similar al de comprar uno nuevo, contando también en añadirle una memoria extra (que además no se podía hacer de forma sencilla con una microSD por ejemplo).
+
+Aquí se reflejan claramente dos problemas principales: la obsolescencia programada, tanto en almacenamiento como en batería, y la presión constante de la evolución tecnológica, que hace que los dispositivos se queden obsoletos muy rápido.
+
+### Reflexión personal
+
+La clase de hoy me ha hecho reflexionar sobre lo poco que valoramos lo que tiramos. Muchas veces tratamos los residuos como algo sin importancia, cuando en realidad contienen materiales muy valiosos que ya han sido extraídos y refinados, con un gran coste ambiental detrás. Además creo que debemos replantearnos un par de veces qué podríamos hacer con algo antes de tirarlo, ya que podemos contribuir a reducir nuestros residuos de esa manera. Por ejemplo, antes de tirar una camiseta, convertirla en trapos para limpiar. Y en el ambito tecnológico por ejemplo, pensar en reparar antes que en desechar. 
+
+Me resulta especialmente contradictorio que sigamos explotando nuevas minas mientras acumulamos recursos en vertederos, simplemente porque resulta más cómodo seguir con el modelo actual. Creo que el problema no es solo tecnológico, sino también de mentalidad y de sistema. Hasta que no se priorice de verdad la reutilización y la reparación frente a la compra constante de productos nuevos, seguiremos generando residuos a un ritmo que no es sostenible.
+
+![imagen que muestra problemas de contaminacion y algunas soluciones mencionadas en la clase de hoy](<ChatGPT Image 9 ene 2026, 12_14_44.png>)
+
 ## DÍA 13 - 12-12-2025
 
 Hoy no he podido asistir a clase.
