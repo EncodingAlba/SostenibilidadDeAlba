@@ -1,3 +1,37 @@
+## DÍA 15 - 16-01-2025
+
+### Resumen de la clase
+
+En la clase de hoy hemos reflexionado sobre la Agenda 2030 y los Objetivos de Desarrollo Sostenible (ODS). Hemos reflexionado sobre que, en esencia, nadie puede estar en contra de objetivos como acabar con la pobreza, el hambre o las desigualdades. Son metas ampliamente compartidas, al menos a nivel teórico.
+
+Sin embargo, el debate surge cuando se habla de cómo alcanzarlos. Para que los países que tienen más recursos y menos problemas sociales permitan que otros mejoren, es necesario que cedan parte de esos recursos. Teniendo en cuenta las reflexiones que ya hemos visto, sabemos que los recursos del planeta son limitados, por lo que la Agenda 2030 plantea la necesidad de redistribuirlos para alcanzar un equilibrio global.
+
+Para entender mejor esta idea, hemos reflexionado sobre cómo se obtiene el dinero y el poder: no es lo mismo heredarlo, como en el caso de una monarquía, que generarlo a través del trabajo o la innovación, como puede ser el caso de grandes empresarios actuales y las personas más ricas del mundo. Aun así, el planteamiento de los ODS no entra tanto en el origen de la riqueza, sino en cómo se gestiona para beneficiar al conjunto de la sociedad.
+
+También hemos visto ejemplos cercanos, como la implantación del ciclo de DAM en nuestro pueblo gracias a ayudas europeas destinadas a mejorar la calidad educativa en regiones que estaban por detrás de otras. En este caso, alguien toma una decisión política para dirigir los recursos hacia un objetivo concreto. Esa decisión puede ser discutible en cuanto a prioridades, pero no en cuanto a la intención de mejorar el equilibrio social.
+
+Por último, se ha recordado la importancia del equilibrio entre las tres dimensiones de la sostenibilidad: social, ambiental y gubernamental, y cómo nuestro bienestar depende de muchas personas y estructuras (gobiernos, educación, sanidad). En este contexto, el altruismo y el egoísmo no están tan alejados como parece, ya que mejorar el sistema también repercute en el beneficio individual.
+
+### Ejemplos
+
+- Ayudas europeas destinadas a mejorar la educación en regiones con menos recursos.  
+- Decisiones políticas sobre en qué sectores invertir más o menos dinero público.  
+- Diferentes formas de obtención de la riqueza (herencia frente a trabajo o innovación).  
+
+### Pregunta del día: ¿Se van a conseguir los ODS?
+
+No creo que los ODS se consigan al 100%, pero considero muy importante que se haya trabajado con ellos como objetivo. Si no existieran, muchas de las medidas que se han tomado no se habrían llevado a cabo de ninguna manera.
+
+Aunque el planteamiento es ambicioso y todavía queda mucho trabajo por hacer, creo que es necesario marcar objetivos comunes como sociedad e ir avanzando poco a poco hacia ellos, aunque no se alcancen completamente.
+
+### Reflexión personal
+
+La clase de hoy me ha hecho reflexionar sobre la importancia de tener un marco común de objetivos, aunque no sea perfecto. Los ODS no son una solución mágica, pero sí una guía que orienta las decisiones políticas y sociales hacia un mayor equilibrio.
+
+También me parece interesante la idea de que nuestro bienestar depende de muchas personas y factores que no controlamos directamente. Por eso creo que hacer un esfuerzo colectivo para que el sistema funcione mejor no es solo altruismo, sino también una forma de cuidar nuestro propio futuro.
+
+![imagen resumen de la clase de hoy](odsdia15.PNG)
+
 ## DÍA 14 - 09-01-2025
 
 ### Resumen de la clase
