@@ -1,3 +1,39 @@
+## DÍA 16 - 23-01-2025
+
+### Resumen de la clase
+
+En la clase de hoy hemos trabajado el **plan de sostenibilidad empresarial** y la importancia de los estándares y normas, especialmente las normas ISO, dentro de las organizaciones. Estas normas sirven para controlar y verificar que los procesos de una empresa se realizan con la calidad adecuada y conforme a la ley.
+
+Las normas ISO establecen marcos de referencia que ayudan a las empresas a asegurarse de que cumplen determinados requisitos. Por ejemplo, en el ámbito de la educación, garantizar que todos los estudiantes dispongan de los recursos necesarios para cursar un grado podría entenderse como una medida organizativa ligada al cumplimiento de ciertos estándares. En el caso de la ISO 9000, el objetivo es disponer de un sistema que verifique que la empresa cumple los requisitos que ella misma se ha marcado. En este contexto, la calidad no se entiende solo como satisfacer a un cliente externo, sino como cumplir los compromisos internos definidos por la propia organización.
+
+Para comprobar que todo esto se cumple, se realizan auditorías periódicas, normalmente anuales, que revisan si la empresa está respetando la normativa y los procedimientos establecidos. Como futuros trabajadores, es importante entender que estas obligaciones no solo afectan a la dirección, sino que pueden recaer también sobre los empleados, que deben cumplir y colaborar con estos procesos.
+
+También se ha destacado que en una empresa siempre existe presión para que siga funcionando: no perder clientes, no quedarse sin materias primas o cumplir la normativa vigente son pilares que apoyan que la empresa siga funcionando. En este sentido, la sostenibilidad deja de ser una opción y pasa a ser una condición de supervivencia, debido a la codependencia entre sistemas, la translimitación de los recursos y el cambio de paradigma actual. La economía es un subsistema de la biosfera, y no al revés.
+
+El plan de sostenibilidad se define como un documento estratégico que sirve para ordenar compromisos, definir objetivos y establecer métricas de seguimiento. Para ello, se utilizan herramientas como las matrices DAFO, que permiten analizar la situación de la empresa y priorizar los problemas más relevantes. A partir de este análisis surgen líneas de acción concretas, que deben ir acompañadas de indicadores (KPIs) para poder medir su cumplimiento.
+
+### Ejemplos
+
+- Uso de normas ISO para controlar la calidad y el cumplimiento legal dentro de una empresa.  
+- Auditorías anuales para comprobar que los procesos definidos se están llevando a cabo correctamente.  
+- Aplicación de matrices DAFO para identificar los problemas más importantes y definir líneas de acción.  
+- Definición de KPIs para medir el avance de un plan de sostenibilidad.  
+
+### Pregunta del día: ¿El plan de sostenibilidad es greenwashing o sostenibilidad real?
+
+Creo que puede ser ambas cosas, dependiendo de cómo la empresa afronte el plan de sostenibilidad. Sabemos que muchas empresas están centradas principalmente en su beneficio económico, y en esos casos el plan puede quedarse en una estrategia de imagen.
+
+Sin embargo, el hecho de que exista una obligación legal para implantar estos planes puede generar un impacto positivo real. Por eso considero importante que las leyes sean cada vez más exigentes en este sentido, ya que ayudan a forzar decisiones empresariales y a dirigir a las organizaciones hacia modelos más sostenibles.
+
+### Reflexión personal
+
+La clase de hoy me ha ayudado a entender que la sostenibilidad empresarial no es solo una cuestión ética, sino también estratégica. Si una empresa quiere seguir funcionando a largo plazo, necesita adaptarse a los límites del entorno y a las nuevas exigencias legales y sociales.
+
+También me parece importante el papel que podemos tener como trabajadores, ya que no solo ejecutamos tareas técnicas, sino que formamos parte de un sistema que debe cumplir normas y compromisos. Entender estos planes y sus indicadores puede ayudarnos a ser más conscientes de nuestro impacto y de la responsabilidad compartida dentro de las organizaciones.
+
+![Sostenibilidad empresarial: estrategias y medición del impacto](sostenibilidad-empresarial.jpg)
+
+
 ## DÍA 15 - 16-01-2025
 
 ### Resumen de la clase
