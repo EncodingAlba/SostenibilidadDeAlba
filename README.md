@@ -1,3 +1,15 @@
+## DÍA 17 - 06-02-2025
+
+### Resumen de la clase
+
+En la clase de hoy todos los grupos han presentado su trabajo durante la asignatura, junto a la web producida con tal fin. 
+
+Cada grupo ha contado aspectos básicos de la civilización que han elegido (Mesopotamia, Imperio Español, Grecia y Roma) junto con la acción individual.
+
+El tiempo de exposición ha sido muy limitado y ha afectado a la calidad de las presentaciones. Asimismo, ha habido varias expliaciones que no se han entendido bien por la calidad. 
+
+Sin embargo ha sido interesante ver lo que se puede hacer con GitHub pages y conocer algunas sugerencias de compañeros.
+
 ## DÍA 16 - 23-01-2025
 
 ### Resumen de la clase
